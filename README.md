@@ -45,11 +45,14 @@ This project was created for CodeCrypt by Team 420
 
 
 <div >
+
+
+  <img src="https://i.imgur.com/XiH6RsI.jpg" alt="Screenshot" width="50%">
   
   <img src="https://i.imgur.com/M6OBuwZ.jpg" alt="Screenshot" width="50%">  
   
  
-  <img src="https://i.imgur.com/XiH6RsI.jpg" alt="Screenshot" width="50%">
+  
 
 
  </div> 
