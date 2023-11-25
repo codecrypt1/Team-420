@@ -101,7 +101,7 @@ This project was created for CodeCrypt by Team 420
 ## HOSTED LINK
 
 
-https://codecrypt-team420.vercel.app/
+<a> https://codecrypt-team420.vercel.app/ </a>
 
 ## How To Use
 
