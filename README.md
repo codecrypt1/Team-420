@@ -40,16 +40,16 @@ This project was created for CodeCrypt by Team 420
    <img align="centre" src="https://i.imgur.com/KuhiOmF.jpg" alt="Screenshot" width="90%">
   <br>
 
-    <br>
+    
    <img align="centre" src="https://i.imgur.com/WZnZdeH.jpg" alt="Screenshot" width="90%">
-  <br>
+
 
 <div >
   
-  <img src="https://i.imgur.com/M6OBuwZ.jpg" alt="Screenshot" width="30%">  
+  <img src="https://i.imgur.com/M6OBuwZ.jpg" alt="Screenshot" width="50%">  
   
  
-  <img src="https://i.imgur.com/XiH6RsI.jpg" alt="Screenshot" width="30%">
+  <img src="https://i.imgur.com/XiH6RsI.jpg" alt="Screenshot" width="50%">
 
 
  </div> 
@@ -81,21 +81,13 @@ This project was created for CodeCrypt by Team 420
  3.FIREBASE REALTIME DB
   <br>
   <br>
- 4.SUPABASE
+ 4.FastAPI
   <br>
   <br>
- 5.FIREBASE FIRESTORE DB
+ 5.Twilio
   <br>
   <br>
- 6.EXPRESS
-  <br>
-  <br>
- 7.RAILWAY
-  <br>
-  <br>
- 8.WHISPER API
-  <br>
-  
+ 
 </h4>
 
 ## HOSTED LINK
