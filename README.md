@@ -98,6 +98,10 @@ This project was created for CodeCrypt by Team 420
   
 </h4>
 
+## HOSTED LINK
+
+
+https://codecrypt-team420.vercel.app/
 
 ## How To Use
 
